@@ -1,6 +1,6 @@
-### Opa, eu sou o Thyago ou Thyagol 👋 ![](https://komarev.com/ghpvc/?username=thyagolucas)
+## Opa, eu sou o Thyago ou Thyagol 👋 ![](https://komarev.com/ghpvc/?username=thyagolucas)
 
-# Devops & Estudante de Engenharia de Software na UFAM. Por aqui você vai encontrar projetos sobre automação, infraestrutura como código e algumas experiências com desenvolvimento que acumulei pelo caminho, seja bem vindo!!
+### Devops & Estudante de Engenharia de Software na UFAM. Por aqui você vai encontrar projetos sobre automação, infraestrutura como código e algumas experiências com desenvolvimento que acumulei pelo caminho, seja bem vindo!!
 
 <a href="https://www.linkedin.com/in/thyagolucas/">
   <img align="left" alt="Thyago Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
