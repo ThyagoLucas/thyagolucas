@@ -6,6 +6,8 @@
 
 <br>
 
-:star: Atualmente minhas stacks preferidas são: AWS, Terraform, Grafana e Gitlab CI
+:star: Atualmente minhas stacks preferidas são: AWS, Terraform, Grafana e Gitlab CI. 
+
+#### Mas eu também gosto de progamar em Node, bash, e python. No frontend eu prefiro Angular, mas também já atuei em projetos com React.
 
 <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350px" height="400">
